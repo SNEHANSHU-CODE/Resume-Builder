@@ -1,10 +1,6 @@
-#Almabetter-Frontend-Capstone-Project
-Resume Builder
+#Resume Builder
 
 Live: https://snehanshu-resume-builder.onrender.com/
-
-Video Demonstration: https://youtu.be/HwYLfwqnjqg
-
 
 Technologies Used:-
 
