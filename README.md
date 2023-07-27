@@ -14,11 +14,9 @@ Technologies Used:-
 
 3-Redux: A state management tool used to manage the application's data and ensure a seamless user experience.
 
-4-React-avatar-edit: A library used to allow users to select a profile image for their resume.
+4-Tailwind CSS: A UI library used to create a visually appealing and user-friendly interface.
 
-5-Tailwind CSS: A UI library used to create a visually appealing and user-friendly interface.
-
-6-React-router-dom: A library used to implement routing in the application, allowing users to navigate to different pages.
+5-React-router-dom: A library used to implement routing in the application, allowing users to navigate to different pages.
 
 With these technologies, the team was able to create a user-friendly and efficient resume builder that makes it easy for users to create a professional resume in just 5 minutes.
 
